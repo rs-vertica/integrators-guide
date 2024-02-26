@@ -1,7 +1,7 @@
 ---
 title: "Creating a Vertica image"
 linkTitle: "Creating a Vertica image"
-weight: 10
+weight: 20
 ---
 
 {{% pageinfo color="primary" %}}

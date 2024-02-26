@@ -1,7 +1,7 @@
 ---
 title: "Client access with VClusterOps "
 linkTitle: "VClusterOps access"
-weight: 40
+weight: 50
 ---
 
 In version 24.1.0, Vertica introduces a modernized backend that uses various HTTPS endpoints and communicates with REST APIs. The new backend dramatically reduces the time it takes to set up and execute administrative commands.
